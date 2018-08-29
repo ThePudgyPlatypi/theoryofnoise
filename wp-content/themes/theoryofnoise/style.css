@@ -1,0 +1,14 @@
+/*
+    Theme Name: Theory of Noise Theme
+    Theme URI: https://www.chrisstehm.com
+    Description: A theme created for Theory of Noise
+    Template: genesis
+    Author: Chris Stehm
+    Author URI: http://www.chrisstehm.com
+    Template: genesis
+    Version: 0.1.0
+*/
+
+/* if you use the @import if comes in fine, but if you enqueue your styles you need to make sure 
+that you put them in order. Check functions.php  */
+/* @import url("../dyad/style.css"); */
